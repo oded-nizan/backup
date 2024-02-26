@@ -1,17 +1,17 @@
 // Replace the placeholders below with the actual Firebase config values from your Firebase project settings
 // https://console.firebase.google.com
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",                 // Your Firebase API key. Found in Firebase Console: Project Settings > General > Your apps > Web app > apiKey
+    apiKey: "AIzaSyBhnEjUvILYarYVs6rhxPwF1gKZw86fH-A",                 // Your Firebase API key. Found in Firebase Console: Project Settings > General > Your apps > Web app > apiKey
 
-    authDomain: "YOUR_AUTH_DOMAIN",         // Your Firebase auth domain. Found in Firebase Console: Project Settings > General > Your apps > Web app > authDomain
+    authDomain: "backup-c508a.firebaseapp.com",         // Your Firebase auth domain. Found in Firebase Console: Project Settings > General > Your apps > Web app > authDomain
 
-    projectId: "YOUR_PROJECT_ID",           // Your Firebase project ID. Found in Firebase Console: Project Settings > General > Your apps > Web app > projectId
+    projectId: "backup-c508a",           // Your Firebase project ID. Found in Firebase Console: Project Settings > General > Your apps > Web app > projectId
 
-    storageBucket: "YOUR_STORAGE_BUCKET",   // Your Firebase storage bucket. Found in Firebase Console: Project Settings > General > Your apps > Web app > storageBucket
+    storageBucket: "backup-c508a.appspot.com",   // Your Firebase storage bucket. Found in Firebase Console: Project Settings > General > Your apps > Web app > storageBucket
 
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",   // Your Firebase messaging sender ID. Found in Firebase Console: Project Settings > General > Your apps > Web app > messagingSenderId
+    messagingSenderId: "836883321568",   // Your Firebase messaging sender ID. Found in Firebase Console: Project Settings > General > Your apps > Web app > messagingSenderId
 
-    appId: "YOUR_APP_ID"                    // Your Firebase app ID. Found in Firebase Console: Project Settings > General > Your apps > Web app > appId
+    appId: "1:836883321568:web:7e1251ba42df4e640b7685"                    // Your Firebase app ID. Found in Firebase Console: Project Settings > General > Your apps > Web app > appId
 };
 
 // IMPORTANT: For enhanced security, consider encrypting your Firebase configuration using a tool like https://obfuscator.io before deploying your application.
